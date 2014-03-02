@@ -5,7 +5,7 @@ date:   2013-03-18
 categories: tech
 ---
 
-Google announced <a href="http://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html">earlier this week</a> that the popular RSS platform Google Reader will be shut down in July. And while many people are bemoaning the closure of the content aggregator, others are completely happy moving on to other services.<!--more-->
+Google announced <a href="http://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html">earlier this week</a> that the popular RSS platform Google Reader will be shut down in July. And while many people are bemoaning the closure of the content aggregator, others are completely happy moving on to other services.
 
 The elimination of the monopolizing feed reader opens doors for other content aggregators to grow their share of users. One application reaping the benefits of Google’s decision is <a href="http://www.feedly.com/">Feedly</a>, which saw an influx of more than 500,000 Google Reader users just days after Google’s announcement.
 

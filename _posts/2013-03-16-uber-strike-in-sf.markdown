@@ -7,7 +7,7 @@ categories: tech, san francisco
 
 <strong>Uber San Francisco drivers strike over benefits, treatment
 </strong><p>
-Last Friday, Uber drivers congregated outside the offices of the transportation startup in SOMA, parking their cars in outrage at the treatment they receive. <!--more-->Almost 30 drivers took part in the protest that happened during rush hour on March 15 and continued into the weekend.
+Last Friday, Uber drivers congregated outside the offices of the transportation startup in SOMA, parking their cars in outrage at the treatment they receive. Almost 30 drivers took part in the protest that happened during rush hour on March 15 and continued into the weekend.
 
 Drivers <u><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=b-IiEgF0JiI">told the media</a></u> they are upset about treatment they are receiving from the company including a lack of a company insurance policy and not receiving tips. Uber’s drivers aren’t licensed as a limousine service or taxi company and have seen their fair share of <u><a href="http://thenextweb.com/insider/2012/11/14/class-action-lawsuit-filed-against-uber-by-san-francisco-taxicab-drivers-citing-unfair-business-competition/">legal dustups</a></u> in the past.
 
