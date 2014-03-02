@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+    <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Gochi+Hand|Varela+Round|Bubbler+One|Didact+Gothic|Metrophobic' rel='stylesheet' type='text/css'>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
@@ -11,37 +12,28 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/default.css">
 
     </head>
     <body>
-
+      <div id="wrap">
         <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
+          <div id="header"><a href="/"><center>selena larson</center></a>
           </div>
-
           {{ content }}
 
-            <ul class="nav">
-              <li><a href="/about">About</a></li>
-              <li><a href="/contact">Contact</a></li>
-              <li><a href="/blog">Blog</a></li>
-            </ul>
-
           <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://twitter.com/selenalarson">twitter.com/selenalarson</a><br />
-              </p>
-            </div>
+          <div id='navigation'>
+           <table width="627" height="35
+" border="0">
+            <td><center><a href='/'><span>Home</span></a></center></td>
+            <td><center><a href='/about'><span>About</span></a></center></td>
+            <td><center><a href='/blog'><span>Blog</span></a></center></td>
+            <td><center><a href='/contact'><span>Contact</span></a></center></td>
+      
+     </table> 
+</div>
+          
           </div>
         </div>
 
