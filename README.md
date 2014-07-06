@@ -2,6 +2,8 @@
 
 ## Running Locally
 
-Start using jekyll `jekyll serve`
+Start guard `bundle exec guard`
+
+Start jekyll `jekyll serve`
 
 Visit http://0.0.0.0:4000
