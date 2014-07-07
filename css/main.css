@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background: url("/images/paper.png");
+  background: #FFFFFF
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -105,10 +105,11 @@ a:visited { color: black; }
 .footer {
   font-size: 90%;
   color: blue;
-  border-top: 4px solid #eee;
+  border-top: 0px solid #000;
+  border-bottom:0px solid #000;
   margin-top: 2em;
-  padding-right: 20px;
-  padding-left: 20px; 
+  padding-right: 0px;
+  padding-left: 0px; 
   overflow: hidden;
 }
 
