@@ -95,14 +95,35 @@
 	padding-right: 10px;
 }
 
+#photo img {
+float:left;
+height:300;
+width:400;
+margin-top:10px;
+margin-left:8px;
+margin-right:5px;
+margin-bottom:5px;
+
+}
+.biophoto {
+	height: 375px;
+	width: 250px;
+	border: 0px none #000;
+	float: right;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-bottom: 0px;
+}
+
+
 /* Contact */
 
 .email {
 	height: 44px;
 	width: 50px;
 	border: 0px none #000;
-	margin-top: 0px;
-	margin-right: 6px;
+	margin-top: 20px;
+	margin-right: 7px;
 	margin-bottom: 11px;
 }
 
