@@ -2,6 +2,8 @@
 
 ## Running Locally
 
+In terminal, type "cd" and a space. Then drag the website folder to Terminal.
+
 Start guard `bundle exec guard`
 
 Start jekyll `jekyll serve`
