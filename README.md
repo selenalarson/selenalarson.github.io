@@ -21,3 +21,7 @@ Visit http://0.0.0.0:4000
 4. Push your changes to remote repository `git push`
 
 5. Make money
+
+## notes
+
+- can't run both at the same time
