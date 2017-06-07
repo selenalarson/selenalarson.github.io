@@ -1,3 +1,4 @@
 name: Selena Larson
 kramdown: redcarpet
-pygments: true
+highlighter: rouge
+pygments: true 
