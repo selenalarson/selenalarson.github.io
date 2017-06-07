@@ -1,8 +1,4 @@
 name: Selena Larson
 kramdown: redcarpet
 highlighter: rouge
-<<<<<<< HEAD
 pygments: true 
-=======
-pygments: true
->>>>>>> 7238d71582d7b05b667e2ee6ad4706e8ad9b35a5
